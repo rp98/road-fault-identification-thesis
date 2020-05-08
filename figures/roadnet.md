@@ -1,6 +1,6 @@
 ## Visualization of RoadNet
 
-Several examples:
+Several examples!
 
 |Image|Ground Truth|Prediction|
 |:----:|:----:|:----:|
