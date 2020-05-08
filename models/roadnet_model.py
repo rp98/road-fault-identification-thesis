@@ -1,4 +1,4 @@
-# Author: Yahui Liu <yahui.liu@uintn.it>
+# Author: Rishank Pandey, Anushka Pathak
 
 import torch
 import numpy as np
