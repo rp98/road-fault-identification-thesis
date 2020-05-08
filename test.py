@@ -1,4 +1,5 @@
-"""Based one CycleGAN project: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"""
+"""Based on CycleGAN project: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"""
+""" Not using Conditional GAN since it is heavier to implement """
 import os
 from options.test_options import TestOptions
 from data import create_dataset
