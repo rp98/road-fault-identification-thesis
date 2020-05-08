@@ -1,4 +1,4 @@
-"""This package includes all the modules related to data loading and preprocessing
+"""This package includes all relevant modules related to data loading and preprocessing
 
  To add a custom dataset class called 'dummy', you need to add a file called 'dummy_dataset.py' and define a subclass 'DummyDataset' inherited from BaseDataset.
  You need to implement four functions:
@@ -7,7 +7,7 @@
     -- <__getitem__>:                   get a data point from data loader.
     -- <modify_commandline_options>:    (optionally) add dataset-specific options and set default options.
 
-Now you can use the dataset class by specifying flag '--dataset_mode dummy'.
+Now one can use the dataset class by specifying flag '--dataset_mode dummy'.
 See our template dataset class 'template_dataset.py' for more details.
 """
 import importlib
