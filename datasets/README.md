@@ -28,7 +28,7 @@ Example:
 
 ### RoadNet 
 
-dataset tree:
+The dataset file structure tree looks like this:
 
 ```
 RoadNet
