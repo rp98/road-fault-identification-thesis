@@ -2,7 +2,7 @@ from .base_options import BaseOptions
 
 
 class TrainOptions(BaseOptions):
-    """This class includes training options.
+    """This class includes all possible training options.
 
     It also includes shared options defined in BaseOptions.
     """
