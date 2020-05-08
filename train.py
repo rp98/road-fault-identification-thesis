@@ -1,4 +1,5 @@
-"""Based one CycleGAN project: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"""
+"""Based on CycleGAN project: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix"""
+""" Batch Training """
 import time
 from options.train_options import TrainOptions
 from data import create_dataset
