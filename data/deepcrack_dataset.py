@@ -1,4 +1,4 @@
-# Author: Yahui Liu <yahui.liu@unitn.it>
+# Author:  Rishank Pandey, Anushka Pathak, Yahui Liu
 
 import os.path
 import random
