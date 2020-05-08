@@ -40,8 +40,8 @@ We provide our pretrained models here:
 
 |Model|Google Drive|
 |:----|:----:|
-|DeepCrack|:[[link]](https://drive.google.com/open?id=1MAwIlWw27feU8EEkP8pgbia7kcuxBwEG)|
-|RoadNet|:[[link]](https://drive.google.com/open?id=1mTKp2ej9T3CUp3mV477w9EOx4EfcsGXE)|
+|DeepCrack|[[link]](https://drive.google.com/open?id=1MAwIlWw27feU8EEkP8pgbia7kcuxBwEG)|
+|RoadNet|[[link]](https://drive.google.com/open?id=1mTKp2ej9T3CUp3mV477w9EOx4EfcsGXE)|
 
 ### 5.Testing
 
