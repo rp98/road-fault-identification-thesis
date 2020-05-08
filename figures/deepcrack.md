@@ -1,6 +1,6 @@
 ## Visualization of DeepCrack
 
-Several examples:
+Several examples! 
 
 |Image|Ground Truth|GF|fused|side1|side2|side3|side4|side5|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----|
