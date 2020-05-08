@@ -8,7 +8,7 @@ A Pytorch implementation of DeepCrack and RoadNet projects for Thesis, 2020.
 
 ### 2.Installation
 
-We provide an user-friendly configuring method via [Conda](https://docs.conda.io/en/latest/) system, and you can create a new Conda environment using the command:
+We provide a user-friendly configuring method via [Conda](https://docs.conda.io/en/latest/) system, and you can create a new Conda environment using the command:
 
 ```
 conda env create -f environment.yml
