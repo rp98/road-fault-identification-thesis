@@ -1,6 +1,6 @@
 # Docker image with pytorch-CycleGAN-and-pix2pix
 
-We provide both Dockerfile and pre-built Docker container that can run this code repo.
+We provide both the Dockerfile and the pre-built Docker container that can run this code repo.
 
 ## Prerequisite
 
