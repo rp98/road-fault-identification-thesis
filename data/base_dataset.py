@@ -1,4 +1,4 @@
-"""This module implements an abstract base class (ABC) 'BaseDataset' for datasets.
+"""This module implements an abstract base class (ABC) 'BaseDataset' for convenient interfacing with our datasets.
 
 It also includes common transformation functions (e.g., get_transform, __scale_width), which can be later used in subclasses.
 """
