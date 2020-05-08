@@ -2,7 +2,7 @@ from .base_options import BaseOptions
 
 
 class TestOptions(BaseOptions):
-    """This class includes test options.
+    """This class includes seemingly all possible test options.
 
     It also includes shared options defined in BaseOptions.
     """
