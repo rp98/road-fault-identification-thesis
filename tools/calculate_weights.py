@@ -1,5 +1,5 @@
 # -*- using: utf-8 -*-
-# Author: Yahui Liu <yahui.liu@unitn.it>
+# Author: Rishank Pandey, Anushka Pathak>
 
 import os
 import glob
