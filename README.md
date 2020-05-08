@@ -1,12 +1,10 @@
-# DeepSegmentor
-A Pytorch implementation of DeepCrack and RoadNet projects.
+# Road Fault Identification (DeepSegmentor)
+A Pytorch implementation of DeepCrack and RoadNet projects for Thesis, 2020. 
 
 ### 1.Datasets
 
- - [Crack Detection Dataset](https://github.com/yhlleo/DeepCrack)
- - [Multi-task Road Detection Dataset](https://github.com/yhlleo/RoadNet)
-
-Please download the corresponding dataset and prepare it by following the [guidance](./datasets/README.md). 
+ - [Crack Detection Dataset](https://www.sciencedirect.com/science/article/pii/S0925231219300566)
+ - [Multi-task Road Detection Dataset](https://ieeexplore.ieee.org/document/8506600)
 
 ### 2.Installation
 
@@ -42,9 +40,8 @@ We provide our pretrained models here:
 
 |Model|Google Drive|
 |:----|:----:|
-|DeepCrack|:ok_hand:[[link]](https://drive.google.com/open?id=1MAwIlWw27feU8EEkP8pgbia7kcuxBwEG)|
-|RoadNet|:ok_hand:[[link]](https://drive.google.com/open?id=1mTKp2ej9T3CUp3mV477w9EOx4EfcsGXE)|
-|RoadNet++|[link]|[link]|-|
+|DeepCrack|:[[link]](https://drive.google.com/open?id=1MAwIlWw27feU8EEkP8pgbia7kcuxBwEG)|
+|RoadNet|:[[link]](https://drive.google.com/open?id=1mTKp2ej9T3CUp3mV477w9EOx4EfcsGXE)|
 
 ### 5.Testing
 
@@ -104,33 +101,7 @@ python eval.py --metric_mode prf --model_name deepcrack --output deepcrack.prf
 
 ### Acknowledgment
 
-This code is based on the [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Thanks to the contributors of this project.
+This code is based on the [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). 
+Thanks to the contributors of this project! Saved a lot of time in implementation!!
 
-### References
 
-If you take use of our datasets or code, please cite our papers:
-
-```
-@article{liu2019deepcrack,
-  title={DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation},
-  author={Liu, Yahui and Yao, Jian and Lu, Xiaohu and Xie, Renping and Li, Li},
-  journal={Neurocomputing},
-  volume={338},
-  pages={139--153},
-  year={2019},
-  doi={10.1016/j.neucom.2019.01.036}
-}
-
-@article{liu2019roadnet,
-  title={RoadNet: Learning to Comprehensively Analyze Road Networks in Complex Urban Scenes from High-Resolution Remotely Sensed Images},
-  author={Liu, Yahui and Yao, Jian and Lu, Xiaohu and Xia, Menghan and Wang, Xingbo and Liu, Yuan},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={57},
-  number={4},
-  pages={2043--2056},
-  year={2019},
-  doi={10.1109/TGRS.2018.2870871}
-}
-```
-
-If you have any questions, please contact me without hesitation (yahui.liu AT unitn.it).
