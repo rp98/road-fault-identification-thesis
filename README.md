@@ -5,6 +5,7 @@ A Pytorch implementation of DeepCrack and RoadNet projects for Thesis, 2020.
 
  - [Crack Detection Dataset](https://www.sciencedirect.com/science/article/pii/S0925231219300566)
  - [Multi-task Road Detection Dataset](https://ieeexplore.ieee.org/document/8506600)
+ -[IDD Road Dataset](https://idd.insaan.iiit.ac.in/)
 
 ### 2.Installation
 
